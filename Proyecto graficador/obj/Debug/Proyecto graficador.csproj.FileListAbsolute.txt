@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Proyecto graficador\bin\Debug\Proyecto graficador.exe.config
+C:\Users\Usuario\source\repos\Proyecto graficador\bin\Debug\Proyecto graficador.exe
+C:\Users\Usuario\source\repos\Proyecto graficador\bin\Debug\Proyecto graficador.pdb
+C:\Users\Usuario\source\repos\Proyecto graficador\obj\Debug\Proyecto graficador.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Proyecto graficador\obj\Debug\Proyecto_graficador.Form1.resources
+C:\Users\Usuario\source\repos\Proyecto graficador\obj\Debug\Proyecto_graficador.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Proyecto graficador\obj\Debug\Proyecto graficador.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Proyecto graficador\obj\Debug\Proyecto graficador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto graficador\obj\Debug\Proyecto graficador.exe
+C:\Users\Usuario\source\repos\Proyecto graficador\obj\Debug\Proyecto graficador.pdb
